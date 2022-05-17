@@ -16,9 +16,6 @@ This project summarises some of the general use cases and demands on a typical p
 <img alt="8" src="https://user-images.githubusercontent.com/18207490/168911871-00e4dd29-2bb5-490b-998b-926fb5d56c8a.png" height="350"> 
 </p>
 
-
-<img src="/art/SpaceX-Demo.gif" align="right" width="32%"/>
-
 ## Libraries Used :books:
 * [Coroutines][0] Library support for Kotlin coroutines.
 * [Flows][1] Stream processing API, built on top of Coroutines.
