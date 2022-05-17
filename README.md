@@ -22,6 +22,7 @@ This project summarises some of the general use cases and demands on a typical p
 * [Compose Navigation][2] for tabs navigation using Jetpack Compose.
 * [Data Binding][3] Layotes (user interface) and application logic and models are used synchronously to each other.
 * [Dagger Hilt][4] Dependency injection library for Android.
+* [Paging3][7] It is used to display the data coming through the API as a page.
 * [Retrofit][5] Type-safe REST client for Android to consume RESTful web services.
 * [Glide Compose][6] Image downloading and caching library supported by Jetpack Compose.
 
@@ -33,6 +34,7 @@ This project summarises some of the general use cases and demands on a typical p
 [4]:  https://developer.android.com/training/dependency-injection/hilt-android
 [5]:  https://square.github.io/retrofit
 [6]:  https://github.com/bumptech/glide
+[7]:  https://developer.android.com/topic/libraries/architecture/paging/v3-overview
 
 ## Clean Architecture
 
