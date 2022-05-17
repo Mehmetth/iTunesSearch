@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">iTunesSearch</string>
+
+    <!-- Detail Screen -->
+    <string name="search_hint">Search item..</string>
+    <string name="not_found">No data\nPlease search by entering a different value.</string>
+
+    <!-- Detail Screen -->
+    <string name="artist_name">Artist Name : </string>
+    <string name="price">Price : </string>
+    <string name="date">Date : </string>
+    <string name="no_description">No Description..</string>
+
+    <!-- Loading State Item -->
+    <string name="opps_error">Oops! An error was received\nTry again..</string>
+    <string name="try_again">Try Again</string>
+
+</resources>
