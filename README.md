@@ -6,14 +6,14 @@ This project summarises some of the general use cases and demands on a typical p
 </br>
 
 <p float="left">
-<img alt="1" src="https://user-images.githubusercontent.com/18207490/168911876-64fbdba8-841d-4002-be82-69f9daa620ce.png" height="300">
-<img alt="2" src="https://user-images.githubusercontent.com/18207490/168911855-31b02aa3-25c5-444b-aa25-b53cf7ce5654.png" height="300">
-<img alt="3" src="https://user-images.githubusercontent.com/18207490/168911859-3558d7a5-372d-41e8-bd73-163905ec1025.png" height="300">
-<img alt="4" src="https://user-images.githubusercontent.com/18207490/168911835-15afc2c4-5b5f-4b37-9493-d14ecb446b81.png" height="300">
-<img alt="5" src="https://user-images.githubusercontent.com/18207490/168911850-a2fb4943-6623-4db0-af64-24f61a227968.png" height="300">
-<img alt="6" src="https://user-images.githubusercontent.com/18207490/168911862-62d834af-3142-4ab7-9dc5-cc0b986c9278.png" height="300">
-<img alt="7" src="https://user-images.githubusercontent.com/18207490/168911865-8bf16a17-e2f3-4c44-a46f-f94e5bafe658.png" height="300">
-<img alt="8" src="https://user-images.githubusercontent.com/18207490/168911871-00e4dd29-2bb5-490b-998b-926fb5d56c8a.png" height="300"> 
+<img alt="1" src="https://user-images.githubusercontent.com/18207490/168911876-64fbdba8-841d-4002-be82-69f9daa620ce.png" height="350">
+<img alt="2" src="https://user-images.githubusercontent.com/18207490/168911855-31b02aa3-25c5-444b-aa25-b53cf7ce5654.png" height="350">
+<img alt="3" src="https://user-images.githubusercontent.com/18207490/168911859-3558d7a5-372d-41e8-bd73-163905ec1025.png" height="350">
+<img alt="4" src="https://user-images.githubusercontent.com/18207490/168911835-15afc2c4-5b5f-4b37-9493-d14ecb446b81.png" height="350">
+<img alt="5" src="https://user-images.githubusercontent.com/18207490/168911850-a2fb4943-6623-4db0-af64-24f61a227968.png" height="350">
+<img alt="6" src="https://user-images.githubusercontent.com/18207490/168911862-62d834af-3142-4ab7-9dc5-cc0b986c9278.png" height="350">
+<img alt="7" src="https://user-images.githubusercontent.com/18207490/168911865-8bf16a17-e2f3-4c44-a46f-f94e5bafe658.png" height="350">
+<img alt="8" src="https://user-images.githubusercontent.com/18207490/168911871-00e4dd29-2bb5-490b-998b-926fb5d56c8a.png" height="350"> 
 </p>
 
 
