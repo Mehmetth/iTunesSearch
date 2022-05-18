@@ -19,7 +19,7 @@ This project summarises some of the general use cases and demands on a typical p
 ## Libraries Used :books:
 * [Coroutines][0] Library support for Kotlin coroutines.
 * [Flows][1] Stream processing API, built on top of Coroutines.
-* [Compose Navigation][2] for tabs navigation using Jetpack Compose.
+* [Compose Navigation][2] It allows us to navigate between composable items while taking advantage of the infrastructure and features of the navigation component.
 * [Data Binding][3] Layotes (user interface) and application logic and models are used synchronously to each other.
 * [Dagger Hilt][4] Dependency injection library for Android.
 * [Paging3][7] It is used to display the data coming through the API as a page.
